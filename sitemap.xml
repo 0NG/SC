@@ -2,10 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://0ng.github.io/The_Legend_of_Heroes/</loc>
+    <loc>https://0ng.github.io/The_Legend_of_Heroes/index.html</loc>
     
     <lastmod>2017-10-05T06:58:40.891Z</lastmod>
     
   </url>
+  
+  <url>
+      <loc>https://0ng.github.io/The_Legend_of_Heroes/index1.html</loc>
+      
+      <lastmod>2017-10-05T07:58:40.891Z</lastmod>
+      
+  </url>
 
+  <url>
+      <loc>https://0ng.github.io/The_Legend_of_Heroes/home.html</loc>
+      
+      <lastmod>2017-10-05T08:58:40.891Z</lastmod>
+      
+  </url>
+  
+  <url>
+      <loc>https://0ng.github.io/The_Legend_of_Heroes/index3.html</loc>
+      
+      <lastmod>2017-10-05T09:58:40.891Z</lastmod>
+      
+  </url>
+  
 </urlset>
