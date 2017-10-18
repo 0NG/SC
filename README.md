@@ -1,5 +1,6 @@
-> 原作者的镜像不知怎么回事都无法访问了，为了方便我周围的空轨迷们和我自己，我将原项目fork过来，建立为Github Pages。感谢[otoboku](https://github.com/otoboku/shencore.github.io)的项目
-<br>以下是原项目的README文档：
+> 原作者的镜像不知怎么回事都无法访问了，为了方便我周围的空轨迷们和我自己，我将原项目fork过来，建立为Github Pages。感谢[otoboku](https://github.com/otoboku/shencore.github.io)的项目<br>
+补充：发现一个可用的镜像：http://ed6.orangeclk.com<br>
+以下是原项目的README文档：
 
 shencore.github.io
 ==================
